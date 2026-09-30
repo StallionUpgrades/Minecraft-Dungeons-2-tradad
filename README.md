@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=00CED1&center=true&vCenter=true&width=1580&lines=MINECRAFT+DUNGEONS+II+HACK+2026;GOD+MODE+•+INFINITE+EMERALDS;DOMINATE+THE+DUNGEONS" alt="Minecraft Dungeons II Hack 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/137cc67f-54ad-49d7-b1d0-fe2b7753c0fa" />
 </div>
 
 <br/>
